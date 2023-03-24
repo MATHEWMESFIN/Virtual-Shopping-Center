@@ -1,0 +1,59 @@
+// "description", price, premium_discount
+
+// Electronics
+
+"Apple iPhone 13", 699.99, true
+"Apple iPhone 13 Pro", 999.99, false
+"Apple iPad", 329.99, true
+"Apple iPad Pro", 799.99, false
+"Apple MacBook Air", 999.99, true
+"Apple Macbook Pro", 1299.99, false
+
+// Automotive
+
+"Mobile 1 Advanced Full Synthetic Motor Oil 5W-30 5-Quart", 24.47, true
+"Pennzoil Synthetic 5W-30 Motor Oil 5-Quart", 17.68, false
+"FOXWELL OBD2 Scanner", 59.49, false
+"FIXD OBD2 Professional Bluetooth Scan Tool", 56.00, false
+"NOCO Boost Plus Car Battery Booster", 99.95, false
+"DEWALT Digital Portable Power Station Jump Starter", 157.43, true
+
+// Fashion
+
+"Casio G-Shock", 112.00, true
+"Rolex Submariner Date", 17995.00, false
+"Adidas Originals Men's", 65.00, true
+"Unisex-Adult Classic Clog", 49.95, false
+"Mens Air Jordan Mid", 229.95, true
+
+// Furniture
+
+"Queen Size Bed Frame", 164.99, false
+"Convertible Sofa Bed", 249.99, true
+"Harrington Sofa in Black", 819.99, true
+"Modway Oracle 69-inch Rectangle Dining Table", 328.88, false
+"PADMA HOUSE 48-inch Round Glass Top Dining Table", 489.00, false
+
+// Office
+
+"Ergonomic Office Chair", 199.99, true
+"Ergo Lux Leather Office Chair", 269.95, true
+"HP Wireless Color All-in-One Printer", 84.89, false
+"File Box With Lock", 37.39, false
+"Simple Mesh Paper Organizer", 23.97, false
+
+// Personal Care
+
+"Gillette Fusion5 Power Mens Razor Blade, 8 Count", 27.99, false
+"Philips Norelco Multigroomer All-in-One Trimmer", 59.96, true
+"Degree Men Antiperspirant Deodorant, 6 pack", 10.78, true
+"Crest + Scope Complete Whitening Toothpaste, 3 pack", 10.47, false
+"SheaMoisture Curl and Shine Coconut Shampoo", 8.69, false
+
+// Pets
+
+"Merrick Dry Dog Food, 22lb. Bag", 64.98, true
+"Furhaven Pet Bed for Dogs and Cats", 59.99, true
+"Meow Mix Original Dry Cat Food, 12lb Bag", 39.98, false
+"BEWISHOME Cat Tree with Sisal Scratching Posts", 94.90, true
+"Tetra Aquarium 20 Gallon Fish Tank Kit", 127.80, false
